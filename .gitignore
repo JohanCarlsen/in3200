@@ -1,0 +1,10 @@
+# Files to be excluded
+
+# Text and figures
+*.pdf
+*.txt
+*.png
+
+# Object and executables 
+*.o
+*.exe
