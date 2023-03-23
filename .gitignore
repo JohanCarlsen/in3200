@@ -8,3 +8,6 @@
 # Object and executables 
 *.o
 *.exe
+
+# Other
+.DS_Store
