@@ -1,0 +1,2 @@
+build:
+	gcc-12 ../serial_part/allocate_2D_array.c ../serial_part/deallocate_2D_array.c omp_compute_numerical_error.c omp_first_time_step.c omp_one_fast_time_step.c omp_one_regular_time_step.c para_main.c -fopenmp -o main.exe

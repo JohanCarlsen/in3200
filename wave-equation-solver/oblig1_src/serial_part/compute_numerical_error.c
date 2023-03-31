@@ -5,7 +5,7 @@ double compute_numerical_error (int nx, int ny, double dx, double dy,
 {
   // Defining pi. 
   double pi = 4. * atan(1);
-  double u_true, u_l, y, x, cos_i, cos_x;
+  double u_true, u_l, y, x;
   double error = 0;
 
   for (int i = 0; i < ny; i++)
