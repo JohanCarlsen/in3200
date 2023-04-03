@@ -1,7 +1,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <time.h>       // Including heder to be able to time the different functions
+#include <time.h>       // Including header to be able to time the different functions
 #include "functions.h"
 
 #define Pi M_PI
